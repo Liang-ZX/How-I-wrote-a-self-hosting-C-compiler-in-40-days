@@ -1,6 +1,8 @@
 8cc C Compiler
 ==============
 
+[**https://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days**](https://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days)
+
 Note: 8cc is no longer an active project. The successor is
 [chibicc](https://github.com/rui314/chibicc).
 
